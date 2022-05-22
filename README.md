@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Temal Karunanayake.
-- 👀 I’m interested in ...
+- 👀 I’m interested in Node(Express) JS backend development.
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for an Internship.
 - 📫 How to reach me : temalkarunanayake99@gmail.com
 
 <!---
