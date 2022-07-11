@@ -10,7 +10,7 @@
   JavaScript  
   Python  
   Node (Express) JS  
-  EJS (Embedded JavaScript templates)  
+  EJS (Embedded JavaScript Templates)  
   HTML  
   CSS  
   SASS (Syntactically Awesome Style Sheets)  
