@@ -49,7 +49,7 @@
 - [Python - Echo Server](https://github.com/temalcode/python-echo-server)
 - [Python - Countdown](https://github.com/temalcode/python-countdown)
 
-### Web Scraping (Python)
+### Web Scraping (Python) Projects
 - [Web Scraping (Python) - Stock Prices](https://github.com/temalcode/stock-prices-webscraping)
 - [Web Scraping (Python) - GitHub Followers Count](https://github.com/temalcode/github-followers-count)
 
