@@ -58,8 +58,8 @@
 
 ### JavaScript Projects
 - [JavaScript - Tip Calculator](https://github.com/temalcode/tip-calculator-javascript-frontendmentor.io)
-- [JavaScript - Counter](https://github.com/temalcode/counter-javascript)
 - [JavaScript - Background Color Flipper](https://github.com/temalcode/backgroundColorFlipper-Javascript)
+- [JavaScript - Counter](https://github.com/temalcode/counter-javascript)
 
 ### Front-end Projects (HTML, CSS, JavaScript, SASS)
 - [Front-end - LoopStudio Landing Page](https://github.com/temalcode/loopstudio-landing-page-frontendmentor.io)
