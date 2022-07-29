@@ -54,7 +54,7 @@
 - [Python - Password Generator](https://github.com/temalcode/python-password-generator)
 - [Python - Echo Server](https://github.com/temalcode/python-echo-server)
 - [Python - Countdown](https://github.com/temalcode/python-countdown)
-- [Python - Polygon Calculator](https://github.com/temalcode/freecodecamp-polygon-area)
+- [Python - Polygon Area Calculator](https://github.com/temalcode/freecodecamp-polygon-area)
 
 ### Web Scraping (Python) Projects
 - [Web Scraping (Python) - Stock Prices](https://github.com/temalcode/stock-prices-webscraping)
