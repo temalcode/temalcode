@@ -9,6 +9,7 @@
   - Java  
   - JavaScript  
   - Python  
+  - PHP  
   - Node (Express) JS  
   - EJS (Embedded JavaScript Templates)  
   - HTML  
@@ -42,12 +43,18 @@
 - [Java - GUI Clicks Counter](https://github.com/temalcode/clicksCounterUsingGUI-Java)
 - [Java - Patterns](https://github.com/temalcode/patternsUsingJava)
 
+### PHP Projects
+- [PHP - Todo App](https://github.com/temalcode/php-todo-app)
+- [PHP - Feedback App](https://github.com/temalcode/php-feedback-app)
+- [PHP - Signup and Login](https://github.com/temalcode/php-signup-login)
+
 ### Python Projects
 - [Python - Calculator](https://github.com/temalcode/python-calculator)
 - [Python - GUI Calculator](https://github.com/temalcode/python-gui-calculator)
 - [Python - Password Generator](https://github.com/temalcode/python-password-generator)
 - [Python - Echo Server](https://github.com/temalcode/python-echo-server)
 - [Python - Countdown](https://github.com/temalcode/python-countdown)
+- [Python - Polygon Calculator](https://github.com/temalcode/freecodecamp-polygon-area)
 
 ### Web Scraping (Python) Projects
 - [Web Scraping (Python) - Stock Prices](https://github.com/temalcode/stock-prices-webscraping)
