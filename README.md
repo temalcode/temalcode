@@ -16,7 +16,7 @@
   - CSS  
   - SASS (Syntactically Awesome Style Sheets)  
   - Bootstrap  
-  - ReactJS   
+  - React JS   
   - MySQL  
   - MongoDB  
   - Git  
@@ -63,6 +63,7 @@
 ### React JS Projects
 - [React JS - Tesla Website Clone](https://github.com/temalcode/react-js-tesla-clone)
 - [React JS - Twitter Frontend](https://github.com/temalcode/reactjs-twitter-frontend)
+- [React JS - Recipe App](https://github.com/temalcode/reactjs-recipe-app)
 - [React JS - Accordian](https://github.com/temalcode/accordian-reactjs-freecodecamp)
 - [React JS - Tours](https://github.com/temalcode/tours-reactjs-freecodecamp)
 - [React JS - Birthday Reminder](https://github.com/temalcode/ReactJS-Birthday-Reminder-Freecodecamp)
