@@ -6,21 +6,28 @@
 
 
 # Technologies
-  - Java  
-  - JavaScript  
-  - Python  
-  - PHP  
-  - Node (Express) JS  
-  - EJS (Embedded JavaScript Templates)  
-  - HTML  
-  - CSS  
-  - SASS (Syntactically Awesome Style Sheets)  
-  - Bootstrap  
-  - React JS   
-  - MySQL  
-  - MongoDB  
-  - Git  
-  - XML
+- Java
+- Python
+- git & GitHub
+- Linux
+- XML
+
+### Frontend Development:
+- HTML
+- CSS
+- JavaScript
+- SASS (Syntactically Awesome Style Sheets)
+- Bootstrap
+- React JS
+
+### Backend Development:
+- PHP
+- Node (Express) JS
+- EJS (Embedded JavaScript templates)
+
+### Database Management Systems:
+- MySQL
+- MongoDB
   
  
 # Projects
