@@ -12,7 +12,7 @@
 - Linux
 - XML
 
-### Frontend Development:
+#### Frontend Development:
 - HTML
 - CSS
 - JavaScript
@@ -20,12 +20,12 @@
 - Bootstrap
 - React JS
 
-### Backend Development:
+#### Backend Development:
 - PHP
 - Node (Express) JS
 - EJS (Embedded JavaScript templates)
 
-### Database Management Systems:
+#### Database Management Systems:
 - MySQL
 - MongoDB
   
