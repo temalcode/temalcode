@@ -81,6 +81,8 @@
 - [JavaScript - Counter](https://github.com/temalcode/counter-javascript)
 
 ### Front-end Projects (HTML, CSS, JavaScript, SASS)
+- [Front-end - Agency Portfolio Design](https://github.com/temalcode/agency-portfolio-website-design)
+- [Front-end - Creating Creative Portfolio Design](https://github.com/temalcode/creating-creative-portfolio-design)
 - [Front-end - LoopStudio Landing Page](https://github.com/temalcode/loopstudio-landing-page-frontendmentor.io)
 - [Front-end - Interactive Rating Component](https://github.com/temalcode/interactive-rating-frontendmentor.io)
 - [Front-end - Advice Genrator](https://github.com/temalcode/advice-generator-frontend-mentor)
