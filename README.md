@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Temal Karunanayake.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking for an Internship.
+- 💞️ I’m looking for an ...
 - 📫 How to reach me : temalkarunanayake99@gmail.com
 
 
@@ -91,6 +91,11 @@
 - [Front-end - Order Summery Component](https://github.com/temalcode/orderSummeryComponent-FrontEndMentorChallenge)
 - [Front-end - NFT Card](https://github.com/temalcode/ntf-card-frontendmentor.io)
 - [Front-end - Status Preview Card](https://github.com/temalcode/statusPreviewCard-FrontendMentorChallenge)
+
+# Profiles
+- [Codepen](https://codepen.io/temalcode)
+- [freeCodeCamp](https://www.freecodecamp.org/temalcode)
+- [Docker Hub](https://hub.docker.com/u/temalcode)
 
 
 <!---
