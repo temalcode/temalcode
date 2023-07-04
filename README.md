@@ -7,10 +7,14 @@
 
 # Technologies
 - Java
+- Java EE
 - Python
 - git & GitHub
 - Linux
 - XML
+- Regex
+- Docker
+- Unified Modeling Language (UML)
 
 #### Frontend Development:
 - HTML
@@ -22,13 +26,45 @@
 
 #### Backend Development:
 - PHP
+- Spring Boot
 - Node (Express) JS
 - EJS (Embedded JavaScript templates)
 
 #### Database Management Systems:
+- Oracle
 - MySQL
 - MongoDB
-  
+
+#### Data Analysis: 
+ - Power BI
+
+#### Cloud Computing:
+ - Microsoft Azure
+ - Google Cloud Platform (GCP)
+ - Amazon Web Services (AWS)
+
+#### Software Testing:
+  - JMeter
+
+#### WordPress:
+ - Elementor
+ - Woocommerce
+
+#### Graphic Design:
+ - Adobe Illustrator
+ - Affinity Designer
+ - Figma
+ - GIMP
+
+#### Office Packages:
+ - Microsoft Office
+ - LibreOffice
+
+#### Other:
+ - LaTeX
+
+  <br>
+
  
 # Projects
 ### Node Express JS Projects
